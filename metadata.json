@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix ORBITRA \u002726 Telemetry Dashboard - Team Sputnik",
+  "description": "Real-time telemetry ground station, USB serial transceiver, and Open MCT bridge for Team Sputnik, MMMUT Gorakhpur at ORBITRA \u002726.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
